@@ -5,31 +5,43 @@
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/default_wallpaper.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/default_wallpaper.jpg" 
+	   thumbUrl="http://www.fixmybrick.biz/images/bluelightning/default_wallpaper-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue_lightning_by_butterfly17.jpg"/>
+            url="http://www.fixmybrick.biz/images/bluelightning/blue_lightning_by_butterfly17.jpg"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue_lightning_by_butterfly17-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue-logo-wallpaper.png"/>
+            url="http://www.fixmybrick.biz/images/bluelightning/blue-logo-wallpaper.png"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue-logo-wallpaper-thumb.png" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue-lightning-382229.jpg"/>
+            url="http://www.fixmybrick.biz/images/bluelightning/blue-lightning-382229.jpg"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue-lightning-382229-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/Blue_Lightning_by_mtheklarf.jpg"/>
+            url="http://www.fixmybrick.biz/images/bluelightning/Blue_Lightning_by_mtheklarf.jpg"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/263203-1920x1200-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/43711-1920x1080-[DesktopNexus.com].jpg"/>
+            url="http://www.fixmybrick.biz/images/bluelightning/43711-1920x1080-[DesktopNexus.com].jpg"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/43711-1920x1080-[DesktopNexus.com]-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/263203-1920x1200.jpg"/>
+            url="http://www.fixmybrick.biz/images/bluelightning/263203-1920x1200.jpg"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/263203-1920x1200-thumb.jpg" />
+
+        <wallpaper
+	    author="google"
+	    url="http://www.fixmybrick.biz/images/bluelightning/ws_Lightning_and_cactus_1152x864.jpg"
+	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/ws_Lightning_and_cactus_1152x864-thumb.jpg" />
 
     </category>
 
