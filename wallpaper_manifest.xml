@@ -5,48 +5,79 @@
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue1.jpg" 
-	   thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue1-thumb.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-1.jpg" 
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-1-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue2.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue2-thumb.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-2.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-2-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue3.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue3-thumb.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-3.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-3-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue4.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue4-thumb.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-4.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-4-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue5.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue5-thumb.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-5.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-5-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue6.png"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue6-thumb.png" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-6.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-6-thumb.jpg" />
 
         <wallpaper
             author="google"
-            url="http://www.fixmybrick.biz/images/bluelightning/blue7.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue7-thumb.jpg" />
-
-        <wallpaper
-	    author="google"
-	    url="http://www.fixmybrick.biz/images/bluelightning/blue8.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue8-thumb.jpg" />
-
-        <wallpaper
-	    author="google"
-	    url="http://www.fixmybrick.biz/images/bluelightning/blue9.jpg"
-	thumbUrl="http://www.fixmybrick.biz/images/bluelightning/blue9-thumb.jpg" />
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-7.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-7-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-8.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-8-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-9.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-9-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-10.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-10-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-11.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-11-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-12.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-12-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-13.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-13-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-14.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-14-thumb.jpg" />
+	    
+	<wallpaper
+            author="google"
+            url="http://www.fixmybrick.biz/images/bluelightning/nexus-15.jpg"
+	    thumbUrl="http://www.fixmybrick.biz/images/bluelightning/nexus-15-thumb.jpg" />
+	    
 
     </category>
 
